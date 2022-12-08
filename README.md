@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taqiyudin Muhammad Khalil
 - 👀 I’m interested in Data Analyst, Business Intelligence, Business Analyst, and Data Scientist
-- 🌱 I’m currently learning Bachelor Degree (S1) Mathematics in Yogyakarta State University
+- 🌱 I’m fresh graduate as Bachelor Degree (S1) Mathematics in Yogyakarta State University
 - 📫 You can reach me in LinkedIn https://www.linkedin.com/in/taqiyudinmkhalil or feel free to email me in taqiyudin.mk@gmail.com
 
 <!---
