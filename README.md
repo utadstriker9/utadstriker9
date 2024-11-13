@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Taqiyudin Muhammad Khalil
 - 👀 I’m interested in Data Analyst, Business Intelligence, Business Analyst, and Data Scientist
-- 🌱 I’m fresh graduate as Bachelor Degree (S1) Mathematics in Yogyakarta State University
-- 📫 You can reach me in LinkedIn https://www.linkedin.com/in/taqiyudinmkhalil or feel free to email me in taqiyudin.mk@gmail.com
+- 🌱 I’m graduate as Bachelor Degree (S1) Mathematics in Yogyakarta State University
+- 🌞 I'm proficient in Python (NLP, ML, DL, TS), R, SQL (BigQuery, PostgreSQL, MySQL), Visualization Tools (Tableau, Metabase, Preset, Looker, PowerBI), ETL Tool (DBT, Airflow), CRM Tools (CleverTap, HubSpot, Insider, Mixpanel, NSQ), Google Analytics, Cloud Services (AWS, GCP, Alibaba, Azure).
 
-<!---
-utadstriker9/utadstriker9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me in LinkedIn https://www.linkedin.com/in/taqiyudinmkhalil or feel free to email me in taqiyudin.mk@gmail.com
